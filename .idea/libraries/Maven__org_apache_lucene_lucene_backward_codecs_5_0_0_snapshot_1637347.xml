@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.lucene:lucene-backward-codecs:5.0.0-snapshot-1637347">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-backward-codecs/5.0.0-snapshot-1637347/lucene-backward-codecs-5.0.0-snapshot-1637347.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-backward-codecs/5.0.0-snapshot-1637347/lucene-backward-codecs-5.0.0-snapshot-1637347-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-backward-codecs/5.0.0-snapshot-1637347/lucene-backward-codecs-5.0.0-snapshot-1637347-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
